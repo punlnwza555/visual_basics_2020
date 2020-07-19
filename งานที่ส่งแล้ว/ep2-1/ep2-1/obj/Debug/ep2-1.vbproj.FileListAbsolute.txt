@@ -1,0 +1,12 @@
+C:\piyatida\ep2-1\ep2-1\bin\Debug\ep2-1.exe.config
+D:\piyatida\ep2-1\ep2-1\bin\Debug\ep2-1.exe.config
+D:\piyatida\ep2-1\ep2-1\bin\Debug\ep2-1.exe
+D:\piyatida\ep2-1\ep2-1\bin\Debug\ep2-1.pdb
+D:\piyatida\ep2-1\ep2-1\bin\Debug\ep2-1.xml
+D:\piyatida\ep2-1\ep2-1\obj\Debug\ep2-1.vbprojResolveAssemblyReference.cache
+D:\piyatida\ep2-1\ep2-1\obj\Debug\WindowsApplication1.Form1.resources
+D:\piyatida\ep2-1\ep2-1\obj\Debug\WindowsApplication1.Resources.resources
+D:\piyatida\ep2-1\ep2-1\obj\Debug\ep2-1.vbproj.GenerateResource.Cache
+D:\piyatida\ep2-1\ep2-1\obj\Debug\ep2-1.exe
+D:\piyatida\ep2-1\ep2-1\obj\Debug\ep2-1.xml
+D:\piyatida\ep2-1\ep2-1\obj\Debug\ep2-1.pdb

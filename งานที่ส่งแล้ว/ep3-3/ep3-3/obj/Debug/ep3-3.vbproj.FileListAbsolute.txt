@@ -1,0 +1,10 @@
+D:\piyatida\ep3-3\ep3-3\bin\Debug\ep3-3.exe.config
+D:\piyatida\ep3-3\ep3-3\bin\Debug\ep3-3.exe
+D:\piyatida\ep3-3\ep3-3\bin\Debug\ep3-3.pdb
+D:\piyatida\ep3-3\ep3-3\bin\Debug\ep3-3.xml
+D:\piyatida\ep3-3\ep3-3\obj\Debug\WindowsApplication1.Form1.resources
+D:\piyatida\ep3-3\ep3-3\obj\Debug\WindowsApplication1.Resources.resources
+D:\piyatida\ep3-3\ep3-3\obj\Debug\ep3-3.vbproj.GenerateResource.Cache
+D:\piyatida\ep3-3\ep3-3\obj\Debug\ep3-3.exe
+D:\piyatida\ep3-3\ep3-3\obj\Debug\ep3-3.xml
+D:\piyatida\ep3-3\ep3-3\obj\Debug\ep3-3.pdb

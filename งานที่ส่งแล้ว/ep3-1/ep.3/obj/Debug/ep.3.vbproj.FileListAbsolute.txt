@@ -1,0 +1,14 @@
+D:\piyatida\ep.3\ep.3\bin\Debug\ep.3.exe.config
+D:\piyatida\ep.3\ep.3\bin\Debug\ep.3.exe
+D:\piyatida\ep.3\ep.3\bin\Debug\ep.3.pdb
+D:\piyatida\ep.3\ep.3\bin\Debug\ep.3.xml
+D:\piyatida\ep.3\ep.3\obj\Debug\WindowsApplication1.Form1.resources
+D:\piyatida\ep.3\ep.3\obj\Debug\WindowsApplication1.Resources.resources
+D:\piyatida\ep.3\ep.3\obj\Debug\ep.3.vbproj.GenerateResource.Cache
+D:\piyatida\ep.3\ep.3\obj\Debug\ep.3.exe
+D:\piyatida\ep.3\ep.3\obj\Debug\ep.3.xml
+D:\piyatida\ep.3\ep.3\obj\Debug\ep.3.pdb
+D:\piyatida\ep3-1\ep.3\bin\Debug\ep.3.exe.config
+D:\piyatida\ep3-1\ep.3\obj\Debug\ep.3.exe
+D:\piyatida\ep3-1\ep.3\obj\Debug\ep.3.xml
+D:\piyatida\ep3-1\ep.3\obj\Debug\ep.3.pdb
